@@ -1,0 +1,245 @@
+@media only screen and (max-width: 1230px) {
+  html {
+    font-size: 56%;
+  }
+
+  .row {
+    margin: auto 4rem;
+  }
+  .big-burgar .dscp div {
+    margin-left: 2rem;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .Statistics-section .circle div {
+    width: 25rem;
+    height: 25rem;
+  }
+
+  .Statistics-section .circle div h3 {
+    font-size: 8.1rem;
+    margin-top: 20%;
+  }
+  .Statistics-section .circle div p {
+    font-size: 2.3rem;
+  }
+}
+@media only screen and (max-width: 900px) {
+  html {
+    font-size: 50%;
+  }
+}
+@media only screen and (max-width: 780px) {
+  html {
+    font-size: 45%;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .span_1_of_3 {
+    width: 49.2%;
+  }
+  .span_1_of_5 {
+    width: 49.2%;
+    margin-left: 0;
+  }
+  .stikey div {
+    margin: 0 3rem;
+  }
+  header .row .ditel h1 {
+    font-size: 7.1rem;
+    margin-top: 15rem;
+  }
+  header .row .ditel {
+    font-size: 2.1rem;
+  }
+  header .row .ditel a {
+    font-size: 2rem;
+  }
+  .span_2_of_5 {
+    width: 49.2%;
+    margin-left: 0;
+  }
+  .cef-3 {
+    position: relative;
+    right: 20rem;
+  }
+  .best-burgar .dscp {
+    margin-top: 0rem;
+  }
+  .big-burgar .dscp {
+    margin-top: 0rem;
+  }
+  .stat-3 {
+    position: relative;
+    left: 20rem;
+  }
+  .Statistics-section .circle div {
+    margin-left: 6rem;
+  }
+  .package-3 {
+    position: relative;
+    left: 20rem;
+    top: 1rem;
+  }
+
+  header .ul {
+    display: none;
+  }
+  .mobile .icon {
+    display: block;
+  }
+  .stikey .mobile .icon {
+    margin-top: 1.5rem;
+  }
+}
+.best-burgar .dscp h3 {
+  font-size: 5.5rem;
+}
+.best-burgar .dscp p {
+  font-size: 2rem;
+}
+.best-burgar .dscp a {
+  font-size: 2.1rem;
+}
+.big-burgar .dscp h3 {
+  font-size: 5.5rem;
+}
+.big-burgar .dscp p {
+  font-size: 2rem;
+}
+.big-burgar .dscp a {
+  font-size: 2.1rem;
+}
+
+@media only screen and (max-width: 580px) {
+  .best-burgar .dscp h3 {
+    font-size: 4.5rem;
+  }
+  .best-burgar .dscp p {
+    font-size: 2rem;
+  }
+  .best-burgar .dscp a {
+    font-size: 2rem;
+  }
+  .big-burgar .dscp h3 {
+    font-size: 4.5rem;
+  }
+  .big-burgar .dscp p {
+    font-size: 2rem;
+  }
+  .big-burgar .dscp a {
+    font-size: 2rem;
+  }
+  .Statistics-section .circle div {
+    margin-left: 1rem;
+  }
+  h2 {
+    font-size: 5.6rem !important;
+  }
+  .stikey div {
+    margin: 0 2rem;
+  }
+  .package-3 {
+    position: relative;
+    left: 16rem;
+    top: 1rem;
+  }
+  .stat-3 {
+    position: relative;
+    left: 15rem;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+}
+
+@media only screen and (max-width: 480px) {
+  .span_1_of_3 {
+    width: 100%;
+  }
+  .span_1_of_5 {
+    width: 100%;
+    margin-left: 0;
+  }
+  .span_2_of_5 {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .package-3 {
+    position: relative;
+    left: 0;
+  }
+
+  .cef-3 {
+    position: relative;
+    right: 0rem;
+  }
+  .Statistics-section .circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .Popular-Package .col.span_1_of_3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .Popular-Package .col.span_1_of_3 div {
+    max-width: 80%;
+
+    margin-top: 5rem;
+  }
+  .big-burgar img {
+    margin: 4rem auto;
+  }
+  .Statistics-section .circle div {
+    margin-top: 2rem;
+  }
+  .update form input[type="submit"] {
+    width: 60%;
+  }
+  .stat-3 {
+    position: relative;
+    left: 0rem;
+  }
+  .stikey div {
+    margin: 0 1rem;
+  }
+}
+
+@media only screen and (max-width: 374px) {
+  html {
+    font-size: 40%;
+  }
+  header .row .ditel h1 {
+    font-size: 5.1rem;
+  }
+  .update form input[type="email"] {
+    font-size: 2rem;
+  }
+  .update form input[type="submit"] {
+    width: 40%;
+    font-size: 2rem;
+  }
+  .Popular-Package .col.span_1_of_3 a {
+    font-size: 2rem;
+  }
+}
+
+@media only screen and (max-width: 254px) {
+  .update form input[type="email"] {
+    font-size: 2rem;
+  }
+  .update form input[type="submit"] {
+    width: 40%;
+    font-size: 2rem;
+  }
+  .Popular-Package .col.span_1_of_3 a {
+    font-size: 1.3rem;
+  }
+
+  .update h2 {
+    font-size: 5.5rem;
+  }
+}
